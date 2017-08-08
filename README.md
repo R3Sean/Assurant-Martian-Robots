@@ -2,7 +2,7 @@
 Assurant Martian Robots
  Architecture:
   - C# ASP.NET MVC 5.2 application using Razor based Views and jQuery
-  - Developed with Visual Studio 2017 for Mac and tested using the Mono runtime
+  - Developed with Visual Studio Community 2017 for Mac and tested using the Mono runtime
  
  Assumptions:
   - Proof of Concept application to solve problem descibed in Coding Execrise document
