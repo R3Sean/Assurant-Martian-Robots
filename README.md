@@ -27,4 +27,4 @@ Assurant Martian Robots
       - Basic analytic reports of mission and robot data
 
 Source Code Provided:
-  - Please find 'mars' solution in this repo
+  - Please find 'mars.zip' which contains the solution in this repo
